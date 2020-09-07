@@ -1,0 +1,3 @@
+git add - to 
+git commit - to move to local repository
+git push - to move to clud repository 
